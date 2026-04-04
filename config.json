@@ -1,0 +1,17 @@
+{
+  "botConfig": {
+    "token": "",
+    "statusText": ".gg/MetalDrops",
+    "genAccessRoleId": "1489672536949133433",
+    "statusRoleId": "1489672536949133433",
+    "vouchTargetId": "1227670761796403260",
+    "vouchChannelId": "1470855429088215243",
+    "appealChannelId": "1489652993409159371",
+    "logsChannelId": "1489653065341599805",
+    "vouchFailureLogChannelId": "1489653065341599805",
+    "genChannelId": "1489651564292342001",
+    "boosterChannelId": "1489651737827737691",
+    "vipChannelId": "1489652924136034354",
+    "restockChannelId": "1489654446228242453"
+  }
+}
